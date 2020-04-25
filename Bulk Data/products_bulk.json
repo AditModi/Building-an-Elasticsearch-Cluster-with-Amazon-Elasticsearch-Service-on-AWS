@@ -1,0 +1,20 @@
+{"index": {"_index": "products","_type": "product","_id": 1 }} 
+{"name": "Robotic Arm", "price": "$19.99", "description": "An arm kind of like the winter soldier", "id": 1,"type": "add"}
+{ "index": { "_index": "products", "_type": "product", "_id": 2 }} 
+{"name": "Computer Chip", "price": "$1.99", "description": "A chip used for electronics", "id": 2, "type": "add"}
+{"index": {"_index": "products","_type": "product","_id": 3}} 
+{"name": "Data sensor","price": "$5.99","description": "This thing senses stuff","id": 3,"type": "add"}
+{"index": {"_index": "products","_type": "product","_id": 4}} 
+{"name": "Power cord","price": "$1.99","description": "Otherwise, how else would you have power?","id": 4,"type": "add"}
+{"index": {"_index": "products","_type": "product","_id": 5}} 
+{"name": "LED Light","price": "$9.99","description": "Let there be light","id": 5,"type": "add"}
+{"index": {"_index": "products","_type": "product","_id": 6}} 
+{"name": "Additional Wires","price": "$4.99","description": "These things are conductive","id": 6,"type": "add"}
+{"index": {"_index": "products","_type": "product","_id": 7}} 
+{"name": "Microphone","price": "$49.99","description": "Records sounds really well","id": 7,"type": "add"}
+{"index": {"_index": "products","_type": "product","_id": 8}} 
+{"name": "Beta software","price": "$19.99","description": "Software that is not yet complete","id": 8,"type": "add"}
+{"index": {"_index": "products","_type": "product","_id": 9}}
+{"name": "Robotic Leg","price": "$49.99","description": "How else is the robot going to walk","id": 9,"type": "add"}
+{"index": {"_index": "products","_type": "product","_id": 10}} 
+{"name": "Bluetooth Garden Hose","price": "$9.99","description": "Cordless water hose for your yard","id": 10,"type": "add"}
