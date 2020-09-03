@@ -10,7 +10,6 @@ curl -XGET 'https://search-products-47sbkstisezdbk5nbknaatmcaq.us-east-1.es.amaz
 
 try one by one save each screenshot 
 
-
 curl -XPOST https://search-products-47sbkstisezdbk5nbknaatmcaq.us-east-1.es.amazonaws.com/_bulk --data-binary @products_bulk.json -H 'Content-Type: application/json'
 
 Place the product_bulk.json in the same folder in which to run command and take screenshot
