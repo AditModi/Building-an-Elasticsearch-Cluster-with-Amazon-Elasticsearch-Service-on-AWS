@@ -1,5 +1,6 @@
 const request = require("request-promise");
 
+
 exports.handler = async (event) => {
     var options = {
         // Update this URI with the URL of your elasticsearch domain
