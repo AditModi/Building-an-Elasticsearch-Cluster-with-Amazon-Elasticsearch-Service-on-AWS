@@ -18,3 +18,4 @@
 {"name": "Robotic Leg","price": "$49.99","description": "How else is the robot going to walk","id": 9,"type": "add"}
 {"index": {"_index": "products","_type": "product","_id": 10}} 
 {"name": "Bluetooth Garden Hose","price": "$9.99","description": "Cordless water hose for your yard","id": 10,"type": "add"}
+
