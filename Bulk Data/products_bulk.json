@@ -1,4 +1,3 @@
-
 {"index": {"_index": "products","_type": "product","_id": 1 }} 
 {"name": "Robotic Arm", "price": "$19.99", "description": "An arm kind of like the winter soldier", "id": 1,"type": "add"}
 { "index": { "_index": "products", "_type": "product", "_id": 2 }} 
