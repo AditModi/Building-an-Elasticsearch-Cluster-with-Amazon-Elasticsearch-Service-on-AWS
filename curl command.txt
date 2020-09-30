@@ -1,4 +1,3 @@
-
 Save the previous screenshot then
 
 curl -XGET 'https://search-products-47sbkstisezdbk5nbknaatmcaq.us-east-1.es.amazonaws.com/products/_search?q=arm'
